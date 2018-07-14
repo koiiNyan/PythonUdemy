@@ -56,6 +56,7 @@ scores = {
           '55': 3,
           '56': 3,
           '57': 3,
+          '58': 4,
           }
 
 summ = sum(scores.values())
