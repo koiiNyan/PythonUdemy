@@ -15,3 +15,4 @@ with open('company1.json', 'w') as file:
     json.dump(file_for_printing, file, indent=4)
 
 # r+ open for reading and writing
+# truncate() erases file content => 0b
