@@ -11,5 +11,5 @@ with con:
     data = cur.fetchall()
 
 df = pd.DataFrame.from_records(data)
-df.columns =['Rank', 'Country', 'Area', 'Population']
+df.columns = ['Rank', 'Country', 'Area', 'Population']
 df.to_csv('countries-from-db.csv', index=False)
