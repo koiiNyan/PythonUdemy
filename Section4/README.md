@@ -17,9 +17,10 @@
 * Exercise 91 - CSV to Database
 * Exercise 92 - File Counter
 * Exercise 93 - Recursive File Counter
-* 
-* 
-* 
-* 
-* 
-* 
+* Exercise 94 - URL Cleaner
+* Exercise 95 - Comma Separated Input
+* Exercise 96 - File Writer
+* Exercise 97 - Advanced File Writer
+* Exercise 98 - Desktop GUI
+* Exercise 99 - Data Writer Web App
+* Exercise 100 - Username and Password Checker Web App
