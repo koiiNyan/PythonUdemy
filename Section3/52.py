@@ -12,3 +12,6 @@
 firstname = input("Enter first name: ")
 secondname = input("Enter second name: ")
 print("Your first name is %s and your second name is %s" % (firstname, secondname))
+
+
+# We use tuple to pass in multiple values to placeholders.
