@@ -6,5 +6,5 @@
 import string
 alphabet = string.ascii_lowercase
 for char in alphabet:
-    with open("{}.txt".format(char), "w", encoding="utf-8") as file:
+    with open("/alph/{}.txt".format(char), "w", encoding="utf-8") as file:
         file.write(char)
