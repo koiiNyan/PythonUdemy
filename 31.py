@@ -4,6 +4,8 @@
 #    return a + b
 #
 # x = foo - 1
+#
+# There's an error because we don't call for function. (With brackets)
 
 def foo(a=1, b=2):
     return a + b
