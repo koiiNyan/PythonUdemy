@@ -10,5 +10,4 @@ a = [1, 2, 3]
 
 for item, index in enumerate(a):
     print("Item {1} has index {0}".format(item, index))
-# enumerate(a)  creates an enumerate object which yields pairs of indexes
-# and items
+# enumerate(a)  creates an enumerate object with pairs of indexes and items
