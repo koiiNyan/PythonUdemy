@@ -89,6 +89,7 @@ scores = {
           '88': 4,
           '89': 4,
           '90': 4,
+          '91': 4,
           }
 
 summ = sum(scores.values())
