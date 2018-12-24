@@ -13,8 +13,7 @@
 * Exercise 87 - Add Missing Data
 * Exercise 88 - Data Filter
 * Exercise 89 - Database Filter
-* Exercise 89 - Database to CSV Converter
-* Exercise 90 - Database to CSV 
+* Exercise 90 - Database to CSV Converter
 * Exercise 91 - CSV to Database
 * Exercise 92 - File Counter
 * Exercise 93 - Recursive File Counter
