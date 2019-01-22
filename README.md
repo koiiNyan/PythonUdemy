@@ -9,4 +9,3 @@ Exercises I've completed during the course:
 ### Section 3: Exercises 51-75 -> [link](/Section3)
 ### Section 4: Exercises 76-100 -> [link](/Section4)
 
-![Certificate](certificate25122018.pdf)
